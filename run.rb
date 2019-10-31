@@ -52,7 +52,7 @@ def print_hit_count(sorted_hit_count_hash)
 	end
 end
 
-puts "====================== Welcome To Nyansa Hit Count Exercise ======================"
+puts "====================== Welcome To Nyansa URL Hit Count Console App ======================"
 puts "Press 'Enter' to continue, Type 'quit to exit at any time."
 choice = STDIN.gets.chomp # It helps to get inputs from user.
 
@@ -73,7 +73,7 @@ loop do
   	end
   	
   when "quit"
-    puts "Thank you for using Nyansa Hit Count Exercise."
+    puts "Thank you for using Nyansa URL Hit Count Console App."
     exit 0
   else
     puts "Invalid command! Press 'Enter' to continue, Type 'quit to exit at any time."

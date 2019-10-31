@@ -1,8 +1,8 @@
-# Nyansa Programming Excercise
+# Nyansa URL Hit Count Console App
 
 ### Inroduction
 
-This is a simple command-line application that is implemented using Ruby 2.6.3. This application is designed for to produce a daily summarized report on url hit count with the earliest date appearing first. For each day, the application displays the number of times each url is visited in the order of highest hit count to lowest count. The program takes one command line argument which is an input file name.
+This is a simple command-line application that is implemented using Ruby 2.6.3. This application is designed for to produce a daily summarized report on url hit count with the earliest date appearing first. For each day, the application displays the number of times each url is visited in the order of highest hit count to lowest count. The program takes one command line argument which is an input file name. 
 
 ### Getting Started
 
